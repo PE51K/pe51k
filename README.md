@@ -7,6 +7,8 @@
 <p align="center">
   <a href="mailto:grigorij1m@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"></a>
   <a href="https://t.me/gregory1m"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://hh.ru/resume/yourresume"><img src="https://img.shields.io/badge/HH.ru-0077B5?style=flat" alt="HH.ru"></a>
   <img src="https://komarev.com/ghpvc/?username=PE51K&style=flat&color=blue" alt="Profile views"/>
 </p>
 
@@ -46,9 +48,11 @@
 
 ### 🏆 Hackathon Highlights
 
-- 🥇 1st Place • **Digital Breakthrough 2024 (All-Russian Final)** — automatic video data annotation, Gazprom-Media 
-- 🥇 1st Place • **Digital Breakthrough 2024 (South Federal District)** — macro-financial model parameter prediction, Central Bank of Russia  
-- 🥇 1st Place • **AI Product Hack 2024 (AI Talent Hub)** — product card generation, Citilink  
-- 🥇 1st Place (case) & 6th Overall • **FinnoDays 2023 (Fintech Hub)** — smart loyalty system, Center-Invest Bank
-- 🥇 1st Place (case) & 🥈 2nd Overall • **AI Generative Hack 2023 (AI Talent Hub)** — advertising campaign analysis, Binnopharm Group
-- 🥈 2nd Place • **LLM Coding Challenge 2025 (AI Talent Hub)** — developer code quality reporter, AlfaStrakhovanie
+| Position | Hackathon | Description | Links |
+|----------|-----------|-------------|-------|
+| 🥇 1st Place | **Digital Breakthrough 2024 (All-Russian Final)** | Automatic video data annotation, Gazprom-Media | [Code]() • [Certificate]() |
+| 🥇 1st Place | **Digital Breakthrough 2024 (South Federal District)** | Macro-financial model parameter prediction, Central Bank of Russia | [Code]() • [Certificate]() |
+| 🥇 1st Place | **AI Product Hack 2024 (AI Talent Hub)** | Product card generation, Citilink | [Code]() • [Certificate]() |
+| 🥇 1st Place (case) & 6th Overall | **FinnoDays 2023 (Fintech Hub)** | Smart loyalty system, Center-Invest Bank | [Code]() • [Certificate]() |
+| 🥇 1st Place (case) & 🥈 2nd Overall | **AI Generative Hack 2023 (AI Talent Hub)** | Advertising campaign analysis, Binnopharm Group | [Code]() • [Certificate]() |
+| 🥈 2nd Place | **LLM Coding Challenge 2025 (AI Talent Hub)** | Developer code quality reporter, AlfaStrakhovanie | [Code]() • [Certificate]() |
