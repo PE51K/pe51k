@@ -7,8 +7,8 @@
 <p align="center">
   <a href="mailto:grigorij1m@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"></a>
   <a href="https://t.me/gregory1m"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://hh.ru/resume/yourresume"><img src="https://img.shields.io/badge/HH.ru-0077B5?style=flat" alt="HH.ru"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://hh.ru/resume/yourresume"><img src="https://img.shields.io/badge/HeadHunter-ff0002?style=flat&logo=briefcase&logoColor=white" alt="HeadHunter"></a>
   <img src="https://komarev.com/ghpvc/?username=PE51K&style=flat&color=blue" alt="Profile views"/>
 </p>
 
