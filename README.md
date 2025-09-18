@@ -43,7 +43,7 @@
 | **YandexGPT Python SDK** | YandexGPT API wrapper SDK | [Code](https://github.com/allseeteam/yandexgpt-python) • [Article (ru)](https://habr.com/ru/articles/812979/) |
 | **AutoLove** | Sends smart daily updates to your partner in telegram via YandexGPT | [Code](https://github.com/allseeteam/auto-chat) • [Article (ru)](https://habr.com/ru/articles/795597/) |
 | **AI Santa** | Generates holiday video-cards with YandexART and YandexGPT | [Article (ru)](https://habr.com/ru/articles/870844/) |
-| **CoverLetterEnchancer** | FastAPI + YandexGPT résumé-tailoring service | [Back-end code](https://github.com/allseeteam/cover-letter-enchancer-backend) • [Front-end code](https://github.com/allseeteam/cover-letter-enchancer-frontend) • [Article (ru)](https://habr.com/ru/articles/796107/) |
+| **CoverLetterEnchancer** | FastAPI + YandexGPT résumé-tailoring service | [Front-end code](https://github.com/allseeteam/cover-letter-enchancer-frontend) • [Back-end code](https://github.com/allseeteam/cover-letter-enchancer-backend) • [Article (ru)](https://habr.com/ru/articles/796107/) |
 | **Skill Extractor** | YandexGPT extracts skills from résumés | [Article (ru)](https://habr.com/ru/articles/823035/) |
 
 ---
