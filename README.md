@@ -16,11 +16,12 @@
 ---
 
 ### 🚀 About me
-- 🎓 B.Sc. Applied Math & CS (SPbU ’25)  
-- 🧑‍💼 **IT Director** at **AllSee** (ex-NLP Engineer)  
-- 🔬 Research: NLP, speech-to-speech LLM, AI agents  
-- 💬 Languages: `Python` • `C++` • `JS/React`  
-- 🛠 Daily tools: Docker, Linux, GitHub, LangChain/Langraph, PyTorch, FastAPI  
+- 🎓 B.Sc. Applied Math & CS (SPbU ’25)
+- 🎓 M.Sc. Informatics and Computer Engineering (Artificial Intelligence) (ITMO ’27)
+- 🧑‍💼 **IT Director** at **AllSee** (ex-NLP Engineer)
+- 🔬 Research: NLP, speech-to-speech LLM, AI agents
+- 💬 Languages: `Python` • `C++` • `JavaScript`
+- 🛠 Daily tools: Docker, Linux, GitHub, LangChain/LangGraph, PyTorch, FastAPI, Pytest, UV, Ruff, Docker Compose, GitHub Actions
 
 ---
 
@@ -32,7 +33,7 @@
 | 🗄️ **Databases** | PostgreSQL • MongoDB • Qdrant | Neo4j |
 | 📊 **Data Science** | Pandas • NumPy • Pydantic • Matplotlib | Polars • SQLAlchemy • Seaborn • Plotly • Scipy |
 | 🤖 **Machine Learning & AI** | PyTorch • PyTorch Lightning • LangChain • LangGraph • LangFuse • Prompt-Engineering • Finetuning • NeptuneAI • OpenAI API • YandexGPT API | Transformers • CatBoost • XGBoost • Autogluon • LlamaIndex • Gigachat API • Scikit-Learn • OpenCV • TensorFlow • Hydra • vLLM |
-| 🛠️ **DevOps & Tools** | pytest • sphinx • uv • ruff • Docker • Docker Compose • GitHub Actions • GitHub Copilot • ChatGPT • RooCode • Linux • Yandex Cloud | Selectel • Cloud.ru |
+| 🛠️ **DevOps & Tools** | Pytest • Sphinx • UV • Ruff • Docker • Docker Compose • GitHub Actions • GitHub Copilot • ChatGPT • RooCode • Linux • Yandex Cloud | Selectel • Cloud.ru |
 
 ---
 
