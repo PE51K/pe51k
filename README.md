@@ -30,8 +30,8 @@
 | 🌐 **Web Development** | ReactJS • VueJS • FastAPI • Streamlit • Gradio • Nginx • Squid proxy | NodeJS • ExpressJS • NextJS |
 | 🗄️ **Databases** | PostgreSQL • MongoDB • Qdrant | Neo4j |
 | 📊 **Data Science** | Pandas • NumPy • Pydantic • Matplotlib | Polars • SQLAlchemy • Seaborn • Plotly • Scipy |
-| 🤖 **Machine Learning & AI** | PyTorch • PyTorch Lightning • LangChain • LangGraph • LangFuse • Prompt-Engineering • Finetuning • NeptuneAI • OpenAI API • YandexGPT API | Transformers • CatBoost • XGBoost • Autogluon • LlamaIndex • Gigachat API • Scikit-Learn • OpenCV • TensorFlow |
-| 🛠️ **DevOps & Tools** | Docker • Docker Compose • GitHub Actions • Linux • Yandex Cloud | Selectel • Cloud.ru |
+| 🤖 **Machine Learning & AI** | PyTorch • PyTorch Lightning • LangChain • LangGraph • LangFuse • Prompt-Engineering • Finetuning • NeptuneAI • OpenAI API • YandexGPT API | Transformers • CatBoost • XGBoost • Autogluon • LlamaIndex • Gigachat API • Scikit-Learn • OpenCV • TensorFlow • Hydra • vLLM |
+| 🛠️ **DevOps & Tools** | pytest • sphinx • uv • ruff • Docker • Docker Compose • GitHub Actions • GitHub Copilot • ChatGPT • RooCode • Linux • Yandex Cloud | Selectel • Cloud.ru |
 
 ---
 
