@@ -7,8 +7,8 @@
 <p align="center">
   <a href="mailto:grigorij1m@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"></a>
   <a href="https://t.me/gregory1m"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://hh.ru/resume/yourresume"><img src="https://img.shields.io/badge/HeadHunter-ff0002?style=flat&logo=briefcase&logoColor=white" alt="HeadHunter"></a>
+  <a href="https://www.linkedin.com/in/gregory-matsnev-5b9141355/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://hh.ru/resume/5405bae0ff0f6b91620039ed1f374377367251"><img src="https://img.shields.io/badge/HeadHunter-ff0002?style=flat&logo=briefcase&logoColor=white" alt="HeadHunter"></a>
   <img src="https://komarev.com/ghpvc/?username=PE51K&style=flat&color=blue" alt="Profile views"/>
 </p>
 
@@ -52,9 +52,10 @@
 
 | Position | Hackathon | Description | Links |
 |----------|-----------|-------------|-------|
-| 🥇 1st Place | **Digital Breakthrough 2024 (All-Russian Final)** | Automatic video data annotation, Gazprom-Media | [Code]() • [Certificate]() |
-| 🥇 1st Place | **Digital Breakthrough 2024 (South Federal District)** | Macro-financial model parameter prediction, Central Bank of Russia | [Code]() • [Certificate]() |
-| 🥇 1st Place | **AI Product Hack 2024 (AI Talent Hub)** | Product card generation, Citilink | [Code]() • [Certificate]() |
-| 🥇 1st Place (case) & 6th Overall | **FinnoDays 2023 (Fintech Hub)** | Smart loyalty system, Center-Invest Bank | [Code]() • [Certificate]() |
-| 🥇 1st Place (case) & 🥈 2nd Overall | **AI Generative Hack 2023 (AI Talent Hub)** | Advertising campaign analysis, Binnopharm Group | [Code]() • [Certificate]() |
-| 🥈 2nd Place | **LLM Coding Challenge 2025 (AI Talent Hub)** | Developer code quality reporter, AlfaStrakhovanie | [Code]() • [Certificate]() |
+| 🥇 1st Place | **AI Product Hack 2025 (AI Talent Hub)** | Career coach AI companion, Yandex | [Code](https://github.com/denisalpino/AITHachathon) |
+| 🥈 2nd Place | **LLM Coding Challenge 2025 (AI Talent Hub)** | Developer code quality reporter, AlfaStrakhovanie | [Code](https://github.com/AGI-in-2024/llm_coding_challenge) • [Certificate](https://drive.google.com/file/d/12yMFQXzp_wukbWQN1I59NB6knd0BkQVs/view?usp=sharing) |
+| 🥇 1st Place | **Digital Breakthrough 2024 (All-Russian Final)** | Automatic video data annotation, Gazprom-Media | [Code](https://github.com/AGI-in-2024/AI-Video-Analysis) • [Certificate](https://drive.google.com/file/d/1lBvni3fFfGRgwPtrkvDX31CRQNJIVUuD/view?usp=sharing) |
+| 🥇 1st Place | **AI Product Hack 2024 (AI Talent Hub)** | Product card generation, Citilink | [Code](https://github.com/PE51K/ai-product-hack-2024) • [Certificate](https://drive.google.com/file/d/1F20WtVBBl6RCzszugy_UtO-bhDV0XY1k/view?usp=sharing) |
+| 🥇 1st Place | **Digital Breakthrough 2023 (South Federal District)** | Macro-financial model parameter prediction, Central Bank of Russia | [Certificate](https://drive.google.com/file/d/1CkjEtedA5DT1NeSmxuGtiAhXybYbVfaL/view?usp=sharing) |
+| 🥇 1st Place (case) & 6th Overall | **FinnoDays 2023 (Fintech Hub)** | Smart loyalty system, Center-Invest Bank | [Code](https://github.com/AlexStr94/finodays) • [Certificate](https://drive.google.com/file/d/1JpEtCO2Jpou1cQzICTJ2cX31l5Irrdzc/view?usp=sharing) |
+| 🥇 1st Place (case) & 🥈 2nd Overall | **AI Generative Product Hack 2023 (AI Talent Hub)** | Advertising campaign analysis, Binnopharm Group |  [Certificate](https://drive.google.com/file/d/1Y6OgeLA4RfYE2LQRlDv9Jttaa8zZj4QV/view?usp=sharing) |
