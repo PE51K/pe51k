@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋 I’m Gregory Matsnev</h3>
 
 <p align="center">
-  IT Director @ <a href="https://allsee.team">AllSee</a> • NLP & LLM Engineer • Speaker • Hackathon Nerd
+  IT Director & ML Engineer @ <a href="https://allsee.team">AllSee</a> • Speaker • Hackathon Nerd
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 ### 🚀 About me
 - 🎓 B.Sc. Applied Math & CS (SPbU ’25)
-- 🎓 M.Sc. Informatics and Computer Engineering (Artificial Intelligence) (ITMO ’27)
-- 🧑‍💼 **IT Director** at **AllSee** (ex-NLP Engineer)
+- 🎓 M.Sc. Informatics and Computer Engineering, Artificial Intelligence (ITMO ’27)
+- 🧑‍💼 **IT Director** & **ML Engineer** at **<a href="https://allsee.team">AllSee</a>**
 - 🔬 Research: NLP, speech-to-speech LLM, AI agents
 - 💬 Languages: `Python` • `C++` • `JavaScript`
 - 🛠 Daily tools: Docker, Linux, GitHub, LangChain/LangGraph, PyTorch, FastAPI, Pytest, UV, Ruff, Docker Compose, GitHub Actions
