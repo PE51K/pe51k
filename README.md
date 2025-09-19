@@ -8,7 +8,8 @@
   <a href="mailto:grigorij1m@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"></a>
   <a href="https://t.me/gregory1m"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://www.linkedin.com/in/gregory-matsnev-5b9141355/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://hh.ru/resume/5405bae0ff0f6b91620039ed1f374377367251"><img src="https://img.shields.io/badge/HeadHunter-ff0002?style=flat&logo=briefcase&logoColor=white" alt="HeadHunter"></a>
+  <a href="https://spb.hh.ru/resume/e6dcd22cff0f6c59a40039ed1f324c57716a6c"><img src="https://img.shields.io/badge/HeadHunter-(ML,%20ru)-ff0002?style=flat&logo=briefcase&logoColor=white" alt="HeadHunter (ML, ru)"></a>
+  <a href="https://spb.hh.ru/resume/5405bae0ff0f6b91620039ed1f374377367251"><img src="https://img.shields.io/badge/HeadHunter-(CIO,%20ru)-ff0002?style=flat&logo=briefcase&logoColor=white" alt="HeadHunter (CIO, ru)"></a>
   <img src="https://komarev.com/ghpvc/?username=PE51K&style=flat&color=blue" alt="Profile views"/>
 </p>
 
