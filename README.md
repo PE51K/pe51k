@@ -32,8 +32,8 @@
 | 🌐 **Web Development** | ReactJS • VueJS • FastAPI • Streamlit • Gradio • Nginx • Squid proxy | NodeJS • ExpressJS • NextJS |
 | 🗄️ **Databases** | PostgreSQL • MongoDB • Qdrant | Neo4j |
 | 📊 **Data Science** | Pandas • NumPy • Pydantic • Matplotlib | Polars • SQLAlchemy • Seaborn • Plotly • Scipy |
-| 🤖 **Machine Learning & AI** | PyTorch • PyTorch Lightning • LangChain • LangGraph • LangFuse • Prompt-Engineering • Finetuning • NeptuneAI • OpenAI API • YandexGPT API | Transformers • CatBoost • XGBoost • Autogluon • LlamaIndex • Gigachat API • Scikit-Learn • OpenCV • TensorFlow • Hydra • vLLM |
-| 🛠️ **DevOps & Tools** | Pytest • Sphinx • UV • Ruff • Docker • Docker Compose • GitHub Actions • GitHub Copilot • ChatGPT • RooCode • Linux • Yandex Cloud | Selectel • Cloud.ru |
+| 🤖 **Machine Learning & AI** | PyTorch • PyTorch Lightning • LangChain • LangGraph • LangFuse • Prompt-Engineering • Finetuning • NeptuneAI • ClearML • Weights & Biases (W&B) • Apache Airflow • OpenAI API • YandexGPT API | Transformers • CatBoost • XGBoost • Autogluon • LlamaIndex • Gigachat API • Scikit-Learn • OpenCV • TensorFlow • Hydra • vLLM • MLflow • DVC |
+| 🛠️ **DevOps & Tools** | Pytest • Sphinx • UV • Ruff • Docker • Docker Compose • GitHub Actions • GitHub Copilot • ChatGPT • RooCode • Linux • Yandex Cloud | Kubernetes • GitLab CI/CD • Selectel • Cloud.ru |
 
 ---
 
