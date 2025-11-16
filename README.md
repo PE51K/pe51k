@@ -55,7 +55,7 @@
 | Position | Hackathon | Description | Links |
 |----------|-----------|-------------|-------|
 | 🥉 3rd Place | **«Working title» hackathon 2025 (HeadHunter)** | Work Vibe Generator, HeadHunter | [Code](https://github.com/bukhanka/hruhruhru) • [Certificate](https://drive.google.com/file/d/1P3zbw5J3otgPf4enr0L1IstLkWI2LJkw/view?usp=sharing) |
-| 🥉 3rd Place | **Digital Transformation Leaders 2025** | Intelligent Digital Data Engineer, Moscow Government | [Code](https://github.com/PE51K/lct-hack-2025) • Certificate (coming soon) |
+| 🥉 3rd Place | **Digital Transformation Leaders 2025** | Intelligent Digital Data Engineer, Moscow Government | [Code](https://github.com/PE51K/lct-hack-2025) • [Certificate](https://drive.google.com/file/d/1pmEuRKfoVlcCeuAwX-DAJsn0ru5dAn3D/view?usp=sharing) |
 | 🥇 1st Place | **AI Product Hack 2025 (AI Talent Hub)** | Career coach AI companion, Yandex | [Code](https://github.com/denisalpino/AITHachathon) • [Certificate](https://drive.google.com/file/d/19cAOVOapiwOCh_LU5l_WOXew-tOJexnI/view?usp=sharing) |
 | 🥈 2nd Place | **LLM Coding Challenge 2025 (AI Talent Hub)** | Developer code quality reporter, AlfaStrakhovanie | [Code](https://github.com/AGI-in-2024/llm_coding_challenge) • [Certificate](https://drive.google.com/file/d/12yMFQXzp_wukbWQN1I59NB6knd0BkQVs/view?usp=sharing) |
 | 🥇 1st Place | **Digital Breakthrough 2024 (All-Russian Final)** | Automatic video data annotation, Gazprom-Media | [Code](https://github.com/AGI-in-2024/AI-Video-Analysis) • [Certificate](https://drive.google.com/file/d/1lBvni3fFfGRgwPtrkvDX31CRQNJIVUuD/view?usp=sharing) |
