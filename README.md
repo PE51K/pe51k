@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋 I’m Gregory Matsnev</h3>
 
 <p align="center">
-  IT Director & ML Engineer @ <a href="https://allsee.team">AllSee</a> • Speaker • Hackathon Nerd
+  CTO & ML Engineer @ <a href="https://allsee.team">AllSee</a> • Speaker • Hackathon Nerd
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="https://t.me/gregory1m"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://www.linkedin.com/in/gregory-matsnev-5b9141355/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://spb.hh.ru/resume/e6dcd22cff0f6c59a40039ed1f324c57716a6c"><img src="https://img.shields.io/badge/HeadHunter-(ML,%20ru)-ff0002?style=flat&logo=briefcase&logoColor=white" alt="HeadHunter (ML, ru)"></a>
-  <a href="https://spb.hh.ru/resume/5405bae0ff0f6b91620039ed1f374377367251"><img src="https://img.shields.io/badge/HeadHunter-(CIO,%20ru)-ff0002?style=flat&logo=briefcase&logoColor=white" alt="HeadHunter (CIO, ru)"></a>
+  <a href="https://spb.hh.ru/resume/5405bae0ff0f6b91620039ed1f374377367251"><img src="https://img.shields.io/badge/HeadHunter-(CTO,%20ru)-ff0002?style=flat&logo=briefcase&logoColor=white" alt="HeadHunter (CIO, ru)"></a>
   <img src="https://komarev.com/ghpvc/?username=PE51K&style=flat&color=blue" alt="Profile views"/>
 </p>
 
@@ -18,7 +18,7 @@
 ### 🚀 About me
 - 🎓 B.Sc. Applied Math & CS (SPbU ’25)
 - 🎓 M.Sc. Informatics and Computer Engineering, Artificial Intelligence (ITMO ’27)
-- 🧑‍💼 **IT Director** & **ML Engineer** at **<a href="https://allsee.team">AllSee</a>**
+- 🧑‍💼 **CTO** & **ML Engineer** at **<a href="https://allsee.team">AllSee</a>**
 - 🔬 Research: NLP, speech-to-speech LLM, AI agents
 - 💬 Languages: `Python` • `C++` • `JavaScript`
 - 🛠 Daily tools: Docker, Linux, GitHub, LangChain/LangGraph, PyTorch, FastAPI, Pytest, UV, Ruff, Docker Compose, GitHub Actions
@@ -47,6 +47,15 @@
 | **AI Santa** | Generates holiday video-cards with YandexART and YandexGPT | [Article (ru)](https://habr.com/ru/articles/870844/) |
 | **CoverLetterEnchancer** | FastAPI + YandexGPT résumé-tailoring service | [Front-end code](https://github.com/allseeteam/cover-letter-enchancer-frontend) • [Back-end code](https://github.com/allseeteam/cover-letter-enchancer-backend) • [Article (ru)](https://habr.com/ru/articles/796107/) |
 | **Skill Extractor** | YandexGPT extracts skills from résumés | [Article (ru)](https://habr.com/ru/articles/823035/) |
+
+---
+
+### 🔬 Research
+
+| Title | Description | Links |
+|-------|-------------|-------|
+| **Uncertainty-Aware Agents** | Prompt-based uncertainty quantification for LLM web agents | `in progress` |
+| **Vision-Language-Action Models for Robotics** | VLA models for autonomous robotics with multimodal reasoning | `in progress` |
 
 ---
 
