@@ -19,7 +19,7 @@
 - 🎓 B.Sc. Applied Math & CS (SPbU ’25)
 - 🎓 M.Sc. Informatics and Computer Engineering, Artificial Intelligence (ITMO ’27)
 - 🧑‍💼 **CTO** & **ML Engineer** at **<a href="https://allsee.team">AllSee</a>**
-- 🔬 Research: NLP, speech-to-speech LLM, AI agents
+- 🔬 Research: NLP, AI agents, VLA models, speech-to-speech LLM
 - 💬 Languages: `Python` • `C++` • `JavaScript`
 - 🛠 Daily tools: Docker, Linux, GitHub, LangChain/LangGraph, PyTorch, FastAPI, Pytest, UV, Ruff, Docker Compose, GitHub Actions
 
