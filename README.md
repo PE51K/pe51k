@@ -18,7 +18,7 @@
 - 🧑‍💼 **CTO** & **Lead AI Engineer** at **<a href="https://allsee.team">AllSee</a>**
 - 🔬 Research: AI agents, VLA models, speech-to-speech LLM
 - 💬 Languages: `Python` • `C++` • `JavaScript`
-- 🛠 Daily tools: Docker, Linux, GitHub, LangChain/LangGraph, PyTorch, FastAPI, Pytest, UV, Ruff, Docker Compose, GitHub Actions
+- 🛠 Daily tools: LangChain/LangGraph, PyTorch, FastAPI, UV, Ruff, Pytest, Docker, Docker Compose, Linux, GitHub, GitHub Actions
 
 ---
 
