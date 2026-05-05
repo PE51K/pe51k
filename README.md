@@ -22,6 +22,11 @@
 
 ---
 
+### 🤝 Open to Collaboration & Networking
+I’m **open to collaboration and networking**, and available as an **expert on AI-driven transformation of business processes** — in particular the **software development lifecycle** — for your company. Whether it’s consulting, a guest talk, or a deep-dive workshop, feel free to reach out via [email](mailto:grigorij1m@gmail.com) or [Telegram](https://t.me/gregory1m).
+
+---
+
 ### 🛠 Tech stack
 | Category | Primary | Also comfortable with |
 |----------|---------|-----------------------|
