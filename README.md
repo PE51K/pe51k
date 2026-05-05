@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋 I’m Gregory Matsnev</h3>
 
 <p align="center">
-  CTO & AI Engineer @ <a href="https://allsee.team">AllSee</a> • AI Researcher • Speaker • Hackathon Nerd
+  CTO & Lead AI Engineer @ <a href="https://allsee.team">AllSee</a> • AI Researcher • Speaker • Hackathon Nerd
 </p>
 
 <p align="center">
