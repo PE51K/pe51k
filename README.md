@@ -56,8 +56,8 @@ I’m **open to collaboration and networking**, and available as an **expert on 
 
 | Title | Description | Links |
 |-------|-------------|-------|
-| **Uncertainty-Aware Agents** | Prompt-based uncertainty quantification for LLM web agents | [Preprint](https://arxiv.org/abs/2606.19559) • [Code](https://github.com/PE51K/udcs-in-llm-agents) |
 | **Vision-Language-Action Models for Robotics** | VLA models for autonomous robotics with multimodal reasoning | `in progress` |
+| **Uncertainty Decomposition for Clarification Seeking** | Prompt-based uncertainty decomposition that lets LLM agents seek clarification on underspecified tasks | [Preprint](https://arxiv.org/abs/2606.19559) • [Code](https://github.com/PE51K/udcs-in-llm-agents) |
 
 ---
 
