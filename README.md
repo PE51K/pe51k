@@ -39,19 +39,6 @@ I’m **open to collaboration and networking**, and available as an **expert on 
 
 ---
 
-### ✨ Pet projects
-| Project | Quick blurb | Links |
-|---------|-------------|-------|
-| **AI Secretary** | Whisper + ChatGPT assistant for meetings | [Code](https://github.com/allseeteam/ai-secretary) • [Article (ru)](https://habr.com/ru/articles/804329/) |
-| **BotLLM** | Telegram bot with knowledge about AllSee.team | [Code](https://github.com/allseeteam/allsee-info-bot) • [Article (ru)](https://habr.com/ru/articles/889420/) |
-| **YandexGPT Python SDK** | YandexGPT API wrapper SDK | [Code](https://github.com/allseeteam/yandexgpt-python) • [Article (ru)](https://habr.com/ru/articles/812979/) |
-| **AutoLove** | Sends smart daily updates to your partner in telegram via YandexGPT | [Code](https://github.com/allseeteam/auto-chat) • [Article (ru)](https://habr.com/ru/articles/795597/) |
-| **AI Santa** | Generates holiday video-cards with YandexART and YandexGPT | [Article (ru)](https://habr.com/ru/articles/870844/) |
-| **CoverLetterEnchancer** | FastAPI + YandexGPT résumé-tailoring service | [Front-end code](https://github.com/allseeteam/cover-letter-enchancer-frontend) • [Back-end code](https://github.com/allseeteam/cover-letter-enchancer-backend) • [Article (ru)](https://habr.com/ru/articles/796107/) |
-| **Skill Extractor** | YandexGPT extracts skills from résumés | [Article (ru)](https://habr.com/ru/articles/823035/) |
-
----
-
 ### 🔬 Research
 
 | Title | Description | Links |
@@ -74,3 +61,16 @@ I’m **open to collaboration and networking**, and available as an **expert on 
 | 🥇 1st Place | **Digital Breakthrough 2023 (South Federal District)** | Macro-financial model parameter prediction, Central Bank of Russia | [Certificate](https://drive.google.com/file/d/1CkjEtedA5DT1NeSmxuGtiAhXybYbVfaL/view?usp=sharing) |
 | 🥇 1st Place (case) & 6th Overall | **FinnoDays 2023 (Fintech Hub)** | Smart loyalty system, Center-Invest Bank | [Code](https://github.com/AlexStr94/finodays) • [Certificate](https://drive.google.com/file/d/1JpEtCO2Jpou1cQzICTJ2cX31l5Irrdzc/view?usp=sharing) |
 | 🥇 1st Place (case) & 🥈 2nd Overall | **AI Generative Product Hack 2023 (AI Talent Hub)** | Advertising campaign analysis, Binnopharm Group |  [Certificate](https://drive.google.com/file/d/1Y6OgeLA4RfYE2LQRlDv9Jttaa8zZj4QV/view?usp=sharing) |
+
+---
+
+### ✨ Pet projects
+| Project | Quick blurb | Links |
+|---------|-------------|-------|
+| **AI Secretary** | Whisper + ChatGPT assistant for meetings | [Code](https://github.com/allseeteam/ai-secretary) • [Article (ru)](https://habr.com/ru/articles/804329/) |
+| **BotLLM** | Telegram bot with knowledge about AllSee.team | [Code](https://github.com/allseeteam/allsee-info-bot) • [Article (ru)](https://habr.com/ru/articles/889420/) |
+| **YandexGPT Python SDK** | YandexGPT API wrapper SDK | [Code](https://github.com/allseeteam/yandexgpt-python) • [Article (ru)](https://habr.com/ru/articles/812979/) |
+| **AutoLove** | Sends smart daily updates to your partner in telegram via YandexGPT | [Code](https://github.com/allseeteam/auto-chat) • [Article (ru)](https://habr.com/ru/articles/795597/) |
+| **AI Santa** | Generates holiday video-cards with YandexART and YandexGPT | [Article (ru)](https://habr.com/ru/articles/870844/) |
+| **CoverLetterEnchancer** | FastAPI + YandexGPT résumé-tailoring service | [Front-end code](https://github.com/allseeteam/cover-letter-enchancer-frontend) • [Back-end code](https://github.com/allseeteam/cover-letter-enchancer-backend) • [Article (ru)](https://habr.com/ru/articles/796107/) |
+| **Skill Extractor** | YandexGPT extracts skills from résumés | [Article (ru)](https://habr.com/ru/articles/823035/) |
