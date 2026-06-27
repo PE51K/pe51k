@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="mailto:grigorij1m@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"></a>
-  <a href="https://t.me/gregory1m"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/gregory1m"><img src="https://img.shields.io/badge/Telegram%20(personal)-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram (personal)"></a>
+  <a href="https://t.me/gregory_about_everything"><img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
   <a href="https://www.youtube.com/@pe51k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://huggingface.co/PE51K"><img src="https://img.shields.io/badge/Hugging%20Face-B8860B?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
   <img src="https://komarev.com/ghpvc/?username=PE51K&style=flat&color=blue" alt="Profile views"/>
