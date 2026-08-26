@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:grigorij1m@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"></a>
+  <a href="https://www.linkedin.com/in/gregory-matsnev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:gregory.matsnev.ai@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"></a>
   <a href="https://t.me/gregory1m"><img src="https://img.shields.io/badge/Telegram%20(personal)-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram (personal)"></a>
   <a href="https://t.me/gregory_about_everything"><img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
   <a href="https://www.youtube.com/@pe51k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
@@ -26,7 +27,7 @@
 ---
 
 ### 🤝 Open to Collaboration & Networking
-I’m **open to collaboration and networking**, and available as an **expert on AI-driven transformation of business processes** — in particular the **software development lifecycle** — for your company. Whether it’s consulting, a guest talk, or a deep-dive workshop, feel free to reach out via [email](mailto:grigorij1m@gmail.com) or [Telegram](https://t.me/gregory1m).
+I’m **open to collaboration and networking**, and available as an **expert on AI-driven transformation of business processes** — in particular the **software development lifecycle** — for your company. Whether it’s consulting, a guest talk, or a deep-dive workshop, feel free to reach out via [email](mailto:gregory.matsnev.ai@gmail.com) or [Telegram](https://t.me/gregory1m).
 
 ---
 
