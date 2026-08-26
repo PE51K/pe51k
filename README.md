@@ -7,10 +7,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gregory-matsnev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:gregory.matsnev.ai@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"></a>
+  <a href="https://wa.me/19406225851"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://huggingface.co/PE51K"><img src="https://img.shields.io/badge/Hugging%20Face-B8860B?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
   <a href="https://t.me/gregory1m"><img src="https://img.shields.io/badge/Telegram%20(personal)-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram (personal)"></a>
   <a href="https://t.me/gregory_about_everything"><img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
   <a href="https://www.youtube.com/@pe51k"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://huggingface.co/PE51K"><img src="https://img.shields.io/badge/Hugging%20Face-B8860B?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
   <img src="https://komarev.com/ghpvc/?username=PE51K&style=flat&color=blue" alt="Profile views"/>
 </p>
 
