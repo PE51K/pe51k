@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋 I’m Gregory Matsnev</h3>
 
 <p align="center">
-  CTO & Lead AI Engineer @ <a href="https://allsee.team">AllSee</a> • AI Researcher • Speaker • Hackathon Nerd
+  Staff AI Engineer @ <a href="https://allsee.team">AllSee</a> • AI Researcher • Speaker • Hackathon Nerd
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ### 🚀 About me
 - 🎓 B.Sc. Applied Math & CS (SPbU ’25)
 - 🎓 M.Sc. Informatics and Computer Engineering, Artificial Intelligence (ITMO ’27)
-- 🧑‍💼 **CTO** & **Lead AI Engineer** at **<a href="https://allsee.team">AllSee</a>**
+- 🧑‍💼 **Staff AI Engineer** at **<a href="https://allsee.team">AllSee</a>**
 - 🔬 Research: AI agents, VLA models, speech-to-speech LLM
 - 💬 Languages: `Python` • `C++` • `JavaScript`
 - 🛠 Daily tools: LangChain/LangGraph, PyTorch, FastAPI, UV, Ruff, Pytest, Docker, Docker Compose, Linux, GitHub, GitHub Actions
