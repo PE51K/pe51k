@@ -50,27 +50,27 @@ I'm an AI Engineer with 5+ years of commercial experience in LLM products. I bui
   <tr>
     <th>Project</th>
     <th>Description</th>
-    <th width="210">Links</th>
+    <th width="210">&#8199;&#8199;&#8199;&#8199;Links&#8199;&#8199;&#8199;&#8199;</th>
   </tr>
   <tr>
     <td><b>BotLLM</b></td>
     <td>A Telegram RAG agent that answers questions about a company's services</td>
-    <td nowrap><a href="https://github.com/allseeteam/allsee-info-bot"><img src="./assets/chips/code.svg" alt="Code"></a></td>
+    <td><a href="https://github.com/allseeteam/allsee-info-bot"><img src="./assets/chips/code.svg" alt="Code"></a></td>
   </tr>
   <tr>
     <td><b>YandexGPT Python SDK</b></td>
     <td>An async Python client for the YandexGPT API</td>
-    <td nowrap><a href="https://github.com/allseeteam/yandexgpt-python"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://pypi.org/project/yandexgpt-python/"><img src="./assets/chips/pypi.svg" alt="PyPI"></a></td>
+    <td><a href="https://github.com/allseeteam/yandexgpt-python"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://pypi.org/project/yandexgpt-python/"><img src="./assets/chips/pypi.svg" alt="PyPI"></a></td>
   </tr>
   <tr>
     <td><b>AI Secretary</b></td>
     <td>A Telegram assistant that transcribes and summarizes meetings</td>
-    <td nowrap><a href="https://github.com/allseeteam/ai-secretary"><img src="./assets/chips/code.svg" alt="Code"></a></td>
+    <td><a href="https://github.com/allseeteam/ai-secretary"><img src="./assets/chips/code.svg" alt="Code"></a></td>
   </tr>
   <tr>
     <td><b>Personal CRM</b></td>
     <td>A personal CRM with a Kanban board and a relationship graph</td>
-    <td nowrap><a href="https://github.com/PE51K/personal-crm"><img src="./assets/chips/code.svg" alt="Code"></a></td>
+    <td><a href="https://github.com/PE51K/personal-crm"><img src="./assets/chips/code.svg" alt="Code"></a></td>
   </tr>
 </table>
 
@@ -80,27 +80,27 @@ I'm an AI Engineer with 5+ years of commercial experience in LLM products. I bui
   <tr>
     <th>Research</th>
     <th>Status</th>
-    <th width="210">Links</th>
+    <th width="210">&#8199;&#8199;&#8199;&#8199;Links&#8199;&#8199;&#8199;&#8199;</th>
   </tr>
   <tr>
     <td><b>Uncertainty Decomposition for Clarification Seeking in LLM Agents</b></td>
     <td nowrap>Published, 2026</td>
-    <td nowrap><a href="https://arxiv.org/abs/2606.19559"><img src="./assets/chips/arxiv.svg" alt="arXiv"></a> <a href="https://github.com/PE51K/udcs-in-llm-agents"><img src="./assets/chips/code.svg" alt="Code"></a></td>
+    <td><a href="https://arxiv.org/abs/2606.19559"><img src="./assets/chips/arxiv.svg" alt="arXiv"></a> <a href="https://github.com/PE51K/udcs-in-llm-agents"><img src="./assets/chips/code.svg" alt="Code"></a></td>
   </tr>
   <tr>
     <td><b>Environment Synthesis and Reinforcement Learning for Interactive and Proactive LLM Agents</b></td>
     <td nowrap>In progress</td>
-    <td nowrap></td>
+    <td></td>
   </tr>
   <tr>
     <td><b>Vision-Language-Action Models for Robotics</b></td>
     <td nowrap>In progress</td>
-    <td nowrap></td>
+    <td></td>
   </tr>
   <tr>
     <td><b>Multimodal LLMs with Direct Voice Input and Output</b></td>
     <td nowrap>Thesis, 2025</td>
-    <td nowrap><a href="https://github.com/PE51K/ru-zh-moshi"><img src="./assets/chips/code.svg" alt="Code"></a></td>
+    <td><a href="https://github.com/PE51K/ru-zh-moshi"><img src="./assets/chips/code.svg" alt="Code"></a></td>
   </tr>
 </table>
 
@@ -109,63 +109,63 @@ I'm an AI Engineer with 5+ years of commercial experience in LLM products. I bui
 <table>
   <tr>
     <th>Hackathon</th>
-    <th>Place</th>
+    <th width="110">Place</th>
     <th>Case</th>
-    <th width="210">Links</th>
+    <th width="210">&#8199;&#8199;&#8199;&#8199;Links&#8199;&#8199;&#8199;&#8199;</th>
   </tr>
   <tr>
     <td><b>"Working Title" Hackathon 2025</b></td>
-    <td nowrap>🥉 3rd</td>
+    <td>🥉&nbsp;3rd</td>
     <td>A preview of what working at a company feels like</td>
-    <td nowrap><a href="https://github.com/bukhanka/hruhruhru"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/1P3zbw5J3otgPf4enr0L1IstLkWI2LJkw/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
+    <td><a href="https://github.com/bukhanka/hruhruhru"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/1P3zbw5J3otgPf4enr0L1IstLkWI2LJkw/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
   </tr>
   <tr>
     <td><b>Digital Transformation Leaders 2025</b></td>
-    <td nowrap>🥉 3rd</td>
+    <td>🥉&nbsp;3rd</td>
     <td>An LLM agent that builds data pipelines</td>
-    <td nowrap><a href="https://github.com/PE51K/lct-hack-2025"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/1pmEuRKfoVlcCeuAwX-DAJsn0ru5dAn3D/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
+    <td><a href="https://github.com/PE51K/lct-hack-2025"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/1pmEuRKfoVlcCeuAwX-DAJsn0ru5dAn3D/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
   </tr>
   <tr>
     <td><b>AI Product Hack 2025</b></td>
-    <td nowrap>🥇 1st</td>
+    <td>🥇&nbsp;1st</td>
     <td>An AI career coach</td>
-    <td nowrap><a href="https://github.com/denisalpino/AITHachathon"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/19cAOVOapiwOCh_LU5l_WOXew-tOJexnI/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
+    <td><a href="https://github.com/denisalpino/AITHachathon"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/19cAOVOapiwOCh_LU5l_WOXew-tOJexnI/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
   </tr>
   <tr>
     <td><b>LLM Coding Challenge 2025</b></td>
-    <td nowrap>🥈 2nd</td>
+    <td>🥈&nbsp;2nd</td>
     <td>A report on developers' code quality</td>
-    <td nowrap><a href="https://github.com/AGI-in-2024/llm_coding_challenge"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/12yMFQXzp_wukbWQN1I59NB6knd0BkQVs/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
+    <td><a href="https://github.com/AGI-in-2024/llm_coding_challenge"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/12yMFQXzp_wukbWQN1I59NB6knd0BkQVs/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
   </tr>
   <tr>
     <td><b>Digital Breakthrough 2024, National Final</b></td>
-    <td nowrap>🥇 1st</td>
+    <td>🥇&nbsp;1st</td>
     <td>A video tagging system for editors</td>
-    <td nowrap><a href="https://github.com/AGI-in-2024/AI-Video-Analysis"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/1lBvni3fFfGRgwPtrkvDX31CRQNJIVUuD/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
+    <td><a href="https://github.com/AGI-in-2024/AI-Video-Analysis"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/1lBvni3fFfGRgwPtrkvDX31CRQNJIVUuD/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
   </tr>
   <tr>
     <td><b>AI Product Hack 2024</b></td>
-    <td nowrap>🥇 1st</td>
+    <td>🥇&nbsp;1st</td>
     <td>A product card generator for an online store</td>
-    <td nowrap><a href="https://github.com/PE51K/ai-product-hack-2024"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/1F20WtVBBl6RCzszugy_UtO-bhDV0XY1k/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
+    <td><a href="https://github.com/PE51K/ai-product-hack-2024"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/1F20WtVBBl6RCzszugy_UtO-bhDV0XY1k/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
   </tr>
   <tr>
     <td><b>AI Generative Product Hack 2023</b></td>
-    <td nowrap>🥇 1st in case</td>
+    <td>🥇&nbsp;1st in&nbsp;case</td>
     <td>An LLM analyzer of advertising campaigns</td>
-    <td nowrap><a href="https://drive.google.com/file/d/1Y6OgeLA4RfYE2LQRlDv9Jttaa8zZj4QV/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
+    <td><a href="https://drive.google.com/file/d/1Y6OgeLA4RfYE2LQRlDv9Jttaa8zZj4QV/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
   </tr>
   <tr>
     <td><b>FinnoDays 2023</b></td>
-    <td nowrap>🥇 1st in case</td>
+    <td>🥇&nbsp;1st in&nbsp;case</td>
     <td>A personalized cashback system for a bank</td>
-    <td nowrap><a href="https://github.com/AlexStr94/finodays"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/1JpEtCO2Jpou1cQzICTJ2cX31l5Irrdzc/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
+    <td><a href="https://github.com/AlexStr94/finodays"><img src="./assets/chips/code.svg" alt="Code"></a> <a href="https://drive.google.com/file/d/1JpEtCO2Jpou1cQzICTJ2cX31l5Irrdzc/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
   </tr>
   <tr>
     <td><b>Digital Breakthrough 2023, South Federal District</b></td>
-    <td nowrap>🥇 1st</td>
+    <td>🥇&nbsp;1st</td>
     <td>A forecaster of macro-financial model parameters</td>
-    <td nowrap><a href="https://drive.google.com/file/d/1CkjEtedA5DT1NeSmxuGtiAhXybYbVfaL/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
+    <td><a href="https://drive.google.com/file/d/1CkjEtedA5DT1NeSmxuGtiAhXybYbVfaL/view?usp=sharing"><img src="./assets/chips/certificate.svg" alt="Certificate"></a></td>
   </tr>
 </table>
 
