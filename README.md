@@ -30,18 +30,19 @@ I'm an AI Engineer with 5+ years of commercial experience in LLM products. I bui
 
 | Area | Stack |
 |---|---|
-| **LLM agents** | LangGraph, OpenAI Agents SDK, Claude Agent SDK, Google ADK, MCP, A2A, Multi-Agent Systems, Agentic Workflows, Tool Calling, Structured Outputs, Context Engineering, Harness Engineering, Prompt Engineering, DSPy, LangChain, LlamaIndex, CrewAI, AutoGen |
-| **LLM APIs** | OpenAI API, Anthropic API, AWS Bedrock, Vertex AI, OpenRouter, Hugging Face |
-| **RAG and search** | Qdrant, pgvector, Pinecone, Weaviate, FAISS, Chroma, Elasticsearch, Embeddings, Hybrid Search, Reranking, Semantic Search, GraphRAG, Knowledge Graphs, Neo4j |
-| **Evals and observability** | Eval-Driven Development, Golden Datasets, LLM-as-a-Judge, ragas, DeepEval, Promptfoo, LangSmith, Braintrust, Human Annotation, Label Studio, Langfuse, OpenTelemetry, Grafana |
-| **AI safety** | Guardrails, Prompt Injection Defense, Red Teaming, Responsible AI |
-| **Fine-tuning** | PyTorch, Transformers, TRL, PEFT, SFT, LoRA, DPO, RLHF, Reinforcement Learning, Distillation, Synthetic Data, Axolotl, Small Language Models, Multimodal LLMs |
-| **Inference** | vLLM, SGLang, Quantization, bitsandbytes, TensorRT, Triton, ONNX, CUDA |
-| **ML and experiments** | A/B Testing, Statistical Hypothesis Testing, scikit-learn, XGBoost, CatBoost, pandas, NumPy, Optuna, Time Series, Recommender Systems, Computer Vision, OpenCV |
-| **MLOps** | MLflow, ClearML, Weights & Biases, DVC, Hydra, Apache Airflow |
-| **Software engineering** | Python, SQL, TypeScript, FastAPI, Pydantic, REST APIs, PostgreSQL, Redis, Kafka, React, Next.js, System Design, Microservices |
-| **Cloud and DevOps** | Docker, Kubernetes, AWS, GCP, Terraform, GitHub Actions, CI/CD, Linux, uv, Ruff, pytest |
-| **AI coding** | Claude Code, Codex, Cursor, GitHub Copilot |
+| **LLM agents** | Prompt Engineering, Tool Calling, Agentic Workflows, LangChain, LangGraph, MCP, Multi-Agent Systems, Context Engineering, LlamaIndex, CrewAI, OpenAI Agents SDK, Claude Agent SDK, Google ADK, A2A, Structured Outputs, Harness Engineering, DSPy, AutoGen |
+| **LLM APIs** | Anthropic API, OpenAI API, Hugging Face, AWS Bedrock, Vertex AI, OpenRouter |
+| **RAG and search** | Reranking, Vector Databases, Embeddings, Hybrid Search, Semantic Search, Pinecone, Weaviate, pgvector, Qdrant, FAISS, Chroma, Elasticsearch, GraphRAG, Knowledge Graphs, Neo4j |
+| **Evals and observability** | LLM-as-a-Judge, LLM Evals, Model Monitoring, Benchmarking, Eval-Driven Development, Golden Datasets, ragas, DeepEval, Promptfoo, LangSmith, Braintrust, Human Annotation, Label Studio, Langfuse, OpenTelemetry, Grafana |
+| **AI safety and privacy** | Guardrails, Responsible AI, Data Privacy, Prompt Injection Defense, Red Teaming |
+| **Fine-tuning** | PyTorch, SFT, Transformers, Multimodal LLMs, Reinforcement Learning, Distillation, TRL, PEFT, LoRA, DPO, RLHF, Synthetic Data, Axolotl, Small Language Models |
+| **Inference** | Model Serving, GPU, Quantization, vLLM, CUDA, SGLang, bitsandbytes, TensorRT, Triton, ONNX |
+| **ML and experiments** | A/B Testing, TensorFlow, Deep Learning, Feature Engineering, Statistics, Computer Vision, NLP, scikit-learn, pandas, Time Series, XGBoost, Statistical Hypothesis Testing, CatBoost, NumPy, Optuna, OpenCV |
+| **MLOps** | Model Deployment, MLflow, ClearML, Weights & Biases, DVC, Hydra |
+| **Data engineering** | Data Pipelines, Spark, Databricks, Apache Airflow, Kafka |
+| **Software engineering** | Python, Back-End Development, SQL, REST APIs, TypeScript, System Design, Distributed Systems, Full-Stack Development, C++, Microservices, Agile, JavaScript, FastAPI, React, PostgreSQL, Pydantic, Redis, Next.js |
+| **Cloud and DevOps** | AWS, CI/CD, Azure, Docker, GCP, Kubernetes, Terraform, GitHub Actions, Linux, uv, Ruff, pytest |
+| **AI coding** | Claude Code, GitHub Copilot, Cursor, Codex |
 
 ## 🛠️ Open-source projects
 
